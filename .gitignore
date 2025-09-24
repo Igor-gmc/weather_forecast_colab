@@ -4,6 +4,9 @@
 .config/
 sample_data/
 
+# полностью игнорировать Google Drive
+/content/drive/
+
 # скрываем виртуалки
 venv/
 ENV/
