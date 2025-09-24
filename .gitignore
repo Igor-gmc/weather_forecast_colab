@@ -1,0 +1,17 @@
+# скрываем ключи и виртуальное окружение
+.env
+*.env
+
+# скрываем виртуалки
+venv/
+ENV/
+.venv/
+
+# кэш питона
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# colab/juputer временные файлы
+.ipynb_checkpoints/
